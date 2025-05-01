@@ -19,8 +19,8 @@ from bs4 import BeautifulSoup
 
 app = Flask(__name__)
 
-GOOGLE_SEARCH_API_KEY = "AIzaSyD-z5xKYUeuPBvaJwd2_uggGQv7vq-ti3M"
-SEARCH_ENGINE_ID = "8110921108cbd45c6"
+GOOGLE_SEARCH_API_KEY = ""
+SEARCH_ENGINE_ID = ""
 CUSTOMER_KEY = "adbdb3"
 SHARED_CERTS = ["*.github.io", "*.wixsite.com", "*.netlify.app"]
 
